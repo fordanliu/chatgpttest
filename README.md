@@ -71,7 +71,7 @@ root@danliu:~# curl https://api.openai.com/v1/completions \
 | Embeddings | 将文本转换成数字形式的模型 | 	$0.0004 / 1K tokens |
 | CodexLimited beta |  能够理解并生成代码，包括将自然语言转换成代码 | 	
 | Moderation |	微调过的模型能够理解文本是否存在敏感或者不安全 |
-| GPT-3 | 能够理解并 | $0.0200 / 1K tokens |
+| GPT-3 | 能够理解并生成自然语言 | $0.0200 / 1K tokens |
 
 
 ### 2.1GPT-3.5
